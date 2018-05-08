@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace homework
+namespace SuperSimpleStockMarket
 {
     /// <summary>
     /// The <c>Stock</c> class contains all the methods that are performed on a stock, such as :
@@ -89,7 +89,10 @@ namespace homework
         /// <param name="price">a decimal that represents the price of selling</param>
         public void sellStock(int quantity, decimal price)
         {
-            recordTrade(quantity, TransactionType.SELL, price);
+            if (quantity > 0 && price > 0)
+            {
+                recordTrade(quantity, TransactionType.SELL, price);
+            }
         }
 
 
@@ -100,7 +103,11 @@ namespace homework
         /// <param name="price">a decimal that represents the price of buying</param>
         public void buyStock(int quantity, decimal price)
         {
-            recordTrade(quantity, TransactionType.BUY, price);
+            if(quantity > 0 && price > 0) 
+            {
+                recordTrade(quantity, TransactionType.BUY, price);
+            }
+           
         }
 
 
@@ -136,7 +143,11 @@ namespace homework
             var tradesInTheLast5Minutes = getTradesInTheLast5Minutes();
             var sumOfTradedPriceByQuantity = tradesInTheLast5Minutes.Sum(x => x.price * x.quantity);
             var sumOfQuantity = tradesInTheLast5Minutes.Sum(x => x.quantity);
-            VWSP =  sumOfTradedPriceByQuantity /sumOfQuantity;
+            if(sumOfQuantity > 0)
+            {
+                VWSP = sumOfTradedPriceByQuantity / sumOfQuantity;
+            }
+           
             return VWSP;
         }
 
