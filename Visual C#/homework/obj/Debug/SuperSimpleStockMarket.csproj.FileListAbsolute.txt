@@ -1,0 +1,16 @@
+C:\Users\mohamed\Downloads\homework\Visual C#\homework\bin\Debug\homework.exe.config
+C:\Users\mohamed\Downloads\homework\Visual C#\homework\bin\Debug\homework.exe
+C:\Users\mohamed\Downloads\homework\Visual C#\homework\bin\Debug\homework.pdb
+C:\Users\mohamed\Downloads\homework\Visual C#\homework\bin\Debug\nunit.framework.dll
+C:\Users\mohamed\Downloads\homework\Visual C#\homework\bin\Debug\nunit.framework.pdb
+C:\Users\mohamed\Downloads\homework\Visual C#\homework\bin\Debug\nunit.framework.xml
+C:\Users\mohamed\Downloads\homework\Visual C#\homework\obj\Debug\SuperSimpleStockMarket.csproj.CoreCompileInputs.cache
+C:\Users\mohamed\Downloads\homework\Visual C#\homework\obj\Debug\SuperSimpleStockMarket.csproj.CopyComplete
+C:\Users\mohamed\Downloads\homework\Visual C#\homework\obj\Debug\homework.exe
+C:\Users\mohamed\Downloads\homework\Visual C#\homework\obj\Debug\homework.pdb
+C:\Users\mohamed\Downloads\homework\Visual C#\homework\obj\Debug\SuperSimpleStockMarket.csprojResolveAssemblyReference.cache
+C:\Users\mohamed\Downloads\homework\Visual C#\homework\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\mohamed\Downloads\homework\Visual C#\homework\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\mohamed\Downloads\homework\Visual C#\homework\bin\Debug\nunit.engine.dll
+C:\Users\mohamed\Downloads\homework\Visual C#\homework\bin\Debug\nunit.engine.api.dll
+C:\Users\mohamed\Downloads\homework\Visual C#\homework\bin\Debug\Mono.Cecil.dll

@@ -1,0 +1,8 @@
+c:\users\mohamed\documents\visual studio 2015\Projects\homework\homework\bin\Debug\homework.exe.config
+C:\Users\mohamed\Downloads\homework\homework\homework\bin\Debug\homework.exe.config
+C:\Users\mohamed\Downloads\homework\homework\homework\bin\Debug\homework.exe
+C:\Users\mohamed\Downloads\homework\homework\homework\bin\Debug\homework.pdb
+C:\Users\mohamed\Downloads\homework\homework\homework\obj\Debug\homework.csprojResolveAssemblyReference.cache
+C:\Users\mohamed\Downloads\homework\homework\homework\obj\Debug\homework.csproj.CoreCompileInputs.cache
+C:\Users\mohamed\Downloads\homework\homework\homework\obj\Debug\homework.exe
+C:\Users\mohamed\Downloads\homework\homework\homework\obj\Debug\homework.pdb
