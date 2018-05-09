@@ -41,7 +41,7 @@ The solution has two folders :
 ### Technologies used :
   * C#
   * [nUnit](http://nunit.org/) Version 3.10.1 (for testing)
-  * [NUnit3TestAdapter] (https://github.com/nunit/docs/wiki/VS-Adapter) Version 3.10.0 (for testing)
+  * [NUnit3TestAdapter](https://github.com/nunit/docs/wiki/VS-Adapter) Version 3.10.0 (for testing)
 ### IDE :
   * Visual studio Community 2015
   
