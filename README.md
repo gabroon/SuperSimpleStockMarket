@@ -43,7 +43,7 @@ The solution has two folders :
   * [nUnit](http://nunit.org/) Version 3.10.1 (for testing)
   * [NUnit3TestAdapter](https://github.com/nunit/docs/wiki/VS-Adapter) Version 3.10.0 (for testing)
 ### IDE :
-  * Visual studio Community 2015
+  * Visual studio Community 2015 + 2017
   
 ## Testing :
 * 6 test cases are available in SuperSimpleMarketTest.cs which test the following : 
