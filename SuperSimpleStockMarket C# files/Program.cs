@@ -1,12 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace homework
+namespace SuperSimpleStockMarket
 {
     class Program
     {
         static void Main(string[] args)
         {
+            //create list of stocks and add various stocks to it
             List<Stock> stocks = new List<Stock>();
             Stock stockTea = new Stock("TEA", StockType.Common, 0, 0, 100);
             Stock stockPOP = new Stock("POP", StockType.Common, 8, 0, 100);
@@ -30,7 +31,7 @@ namespace homework
             Console.WriteLine(" PE Ratio : " + stockTea.calcualtePERatio(100));
 
 
-            //do some transactions on the stocks
+            //do some random transactions on the stocks
             for(var i = 0; i < stocks.Count; i++)
             {
                 var stock = stocks[i];
@@ -47,7 +48,7 @@ namespace homework
                
             }
 
-            //get all share index
+            //print out all share index
            Console.WriteLine("All Share Index : " + GCBEGeneralMethods.getGCBEAllShareIndex(stocks));
 
         }

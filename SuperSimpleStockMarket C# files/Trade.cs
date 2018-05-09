@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace homework
+namespace SuperSimpleStockMarket
 {
     /// <summary>
     /// The <c>Trade</c> class contains the follwoing information about a trade : 
@@ -9,7 +9,7 @@ namespace homework
     /// 3. the quantity
     /// 4. the price
     /// </summary>
-    class Trade
+    public class Trade
     {
         public DateTime timeStamp;
         public int quantity;
