@@ -5,7 +5,7 @@ A C# console application that is part of the Global Beverage Corporation Exchang
 
 ## Content
 The solution has two folders : 
-* "Visual C#" that contains the visual studio C# console application project + Unit Testing project
+* "Visual C#" that contains the visual studio C# console application + Unit Testing project
 * "SuperSimpleStockMarket C# files" this is a striped down version of the project that contains only the necessary C# files.
 
 ### Main files in the solution : 
