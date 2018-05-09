@@ -144,7 +144,7 @@ namespace SuperSimpleStockMarket
             
             //testing the empty stock list
              List<Stock> emptyStocks = new List<Stock>();
-             Assert.AreEqual(0, GCBEGeneralMethods.getGCBEAllShareIndex(stocks));
+             Assert.AreEqual(0, GCBEGeneralMethods.getGCBEAllShareIndex(emptyStocks));
 
         }
 
