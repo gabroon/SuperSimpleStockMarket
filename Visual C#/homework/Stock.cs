@@ -11,7 +11,7 @@ namespace SuperSimpleStockMarket
     /// 3. Record a trade
     /// 4. calculate Volume Weighted Stock Price based on trades in past 5 minutes
     /// </summary>
-    class Stock
+    public class Stock
     {
         public string stockSymbol;
         public StockType type;

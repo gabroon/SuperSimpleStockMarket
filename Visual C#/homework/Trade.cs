@@ -9,7 +9,7 @@ namespace SuperSimpleStockMarket
     /// 3. the quantity
     /// 4. the price
     /// </summary>
-    class Trade
+    public class Trade
     {
         public DateTime timeStamp;
         public int quantity;

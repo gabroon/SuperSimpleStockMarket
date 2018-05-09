@@ -9,7 +9,7 @@ namespace SuperSimpleStockMarket
     /// <summary>
     /// The <c>GCBEGeneralMethods</c> contains a method to get the Global Beverage Corporation Exchange's All Share Index
     /// </summary>
-    static class GCBEGeneralMethods
+    public static class GCBEGeneralMethods
     {
         /// <summary>
         /// The method calculates the Global Beverage Corporation Exchange All share index 
