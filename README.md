@@ -35,7 +35,7 @@ The solution has two folders :
   
  * SuperSimpleStockMarketTest.cs
     
-    The file contains test cases to for the main functionalties in the program.
+    The file contains test cases for the main functionalties in the program.
     
 ## Built With : 
 ### Technologies used :
