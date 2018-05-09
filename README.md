@@ -5,7 +5,7 @@ A C# console application that is part of the Global Beverage Corporation Exchang
 
 ## Content
 The solution has two folders : 
-* "Visual C#" that contains the visual studio C# project
+* "Visual C#" that contains the visual studio C# project + Unit Testing project
 * "SuperSimpleStockMarket C# files" this is a striped down version of the project that contains only the necessary C# files.
 
 ### Main files in the solution : 
@@ -41,6 +41,7 @@ The solution has two folders :
 ### Technologies used :
   * C#
   * [nUnit](http://nunit.org/) Version 3.10.1 (for testing)
+  * [NUnit3TestAdapter] (https://github.com/nunit/docs/wiki/VS-Adapter) Version 3.10.0 (for testing)
 ### IDE :
   * Visual studio Community 2015
   
