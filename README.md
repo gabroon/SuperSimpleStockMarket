@@ -42,7 +42,7 @@ The solution has two folders :
   * C#
   * [nUnit](http://nunit.org/) Version 3.10.1 (for testing)
 ### IDE :
-  * Visual studio 2015
+  * Visual studio Community 2015
   
 ## Testing :
 * 6 test cases are available in SuperSimpleMarketTest.cs which test the following : 
